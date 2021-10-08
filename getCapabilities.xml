@@ -297,11 +297,11 @@
 				<Title>bacbov2</Title>
 				<Abstract>GH:bacbov2 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/thanh3690/Mappia_Example/releases/download/Map_Download/bacbov2.zip˸notListing˸˸maxZoom˸10</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/thanh3690/Mappia_Example/releases/download/Map_Download/bacbov2.zip˸notListing˸˸maxZoom˸5</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="102.14499664258108" miny="19.9094467160931" maxx="108.07875060995278" maxy="23.392730712552407"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="102.14499664258108" miny="19.9094467160931" maxx="108.07875060995278" maxy="23.392730712552407"></BoundingBox>
+				<LatLonBoundingBox minx="102.14499664258108" miny="19.9094467160931" maxx="108.07875060995275" maxy="23.392730712552407"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="102.14499664258108" miny="19.9094467160931" maxx="108.07875060995275" maxy="23.392730712552407"></BoundingBox>
 				<Style>
 					<Name>1</Name>
 					<Title>1</Title>
